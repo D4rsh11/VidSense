@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.env.*
+
+# Generated data
+downloads/
+vector_db/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+
+# OS
+.DS_Store
